@@ -1,5 +1,6 @@
 # 🌍 Earthquake & Smoke Detection System Using Arduino 🚨🔥
 
+![GitHub Stars](https://img.shields.io/github/stars/yourusername/Matlab-CGPA-Calculator?style=social)
 
 ---
 
@@ -82,6 +83,7 @@ Create a **responsive Arduino prototype** that:
 This project delivers a **dual alert system** for earthquake and smoke detection using Arduino. Combining sound, light, and display feedback increases user awareness in emergencies. It sets a foundation for future smart IoT safety systems with remote alerting potential.
 
 ---
+
 ![Thank You](https://img.shields.io/badge/Thank%20You!-blue?style=flat-square&logo=smile)
 
 
