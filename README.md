@@ -86,4 +86,3 @@ This project delivers a **dual alert system** for earthquake and smoke detection
 
 ![Thank You](https://img.shields.io/badge/Thank%20You!-blue?style=flat-square&logo=smile)
 
-
